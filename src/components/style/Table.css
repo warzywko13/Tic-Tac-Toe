@@ -1,0 +1,7 @@
+.table {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 6rem);
+  place-items: center;
+  justify-content: center;
+}
